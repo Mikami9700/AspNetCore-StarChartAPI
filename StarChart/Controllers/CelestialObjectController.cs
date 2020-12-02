@@ -8,5 +8,8 @@ namespace StarChart.Controllers
 {
     public class CelestialObjectController : ControllerBase
     {
+
+        public string Route = "";
+        public string ApiController;
     }
 }
